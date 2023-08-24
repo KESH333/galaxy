@@ -1,4 +1,4 @@
-# 🚀Galaxy - Astro Techstack Template
+# 🚀FUTURE-TECH.space - The future is Here.
 
 ## Ship Fast Website To The User With Just A Sprinkle Of Javascript
 
